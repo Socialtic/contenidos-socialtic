@@ -3,10 +3,10 @@
 ## Tabla de contenidos
 - [Introducción](#introducción)
 - [Descripción](#descripción)
-- [Antes de instalar WordPress](#1.-antes-de-instalar-wordpress)
+- [Antes de instalar WordPress](#antes-de-instalar-wordpress)
   - [Dominio](#dominio)
   - [Servidor](#servidor)
-    - [¿Como elegir un servidor?](#id-section6)
+    - [¿Como elegir un servidor?](#¿cómo-elegir-un-servidor?)
     - [Activar HTTPS para tu sitio Wordpress (certificado SSL)](#id-section7)
   - Protege tu sitio contra ataques DDoS
     - Introducción a DDoS y CDN
@@ -51,7 +51,7 @@ Esta guía toma en cuenta las versiones de WordPress de WordPress.org , y no las
 
 La diferencia entre WordPress.com y WordPress.org es que WordPress.com es un servicio comercial de blogs que usa la versión de código abierto y gratuito distribuida por WordPress.org
 
-## 1. Antes de instalar WordPress
+## Antes de instalar WordPress
 
 Esta primera parte de la guía tiene como objetivo darte una perspectiva de los elementos y configuraciones a tomar en cuenta antes de instalar el CMS.
 
@@ -101,7 +101,7 @@ El servidor es el espacio en el que se guarda los datos de tu página y se acced
 
 Uniendo conceptos, cuando una persona se conecta a un dominio (e.g. socialtic.org) realmente se está conectando a un servidor que responde a ese nombre y el servidor entrega los datos (como las publicaciones o las fotos) que se visualizan en el navegador.
 
-## ¿Cómo elegir un servidor? {#id-section6}
+## ¿Cómo elegir un servidor?
 
 Hay muchas opciones de hospedaje en línea y puede ser un poco abrumador buscar uno por uno. Si algunos proveedores tienen mejor reputación que otros no significa que haya uno mejor que todos, sino que cada proveedor tiene soluciones adaptadas a cierto tipo de organizaciones.
 
