@@ -31,7 +31,7 @@
   - Checklist de seguridad de WordPress
 
 
-## Introducción {#id-section1}
+## [Introducción](#id-section1)
 
 Actualmente WordPress es el CMS (sistema de gestión de contenidos, por sus siglas en inglés) más utilizado del mundo, casi 30% de las páginas de Internet  lo utilizan como su sistema de publicación de contenidos por su facilidad y versatilidad ([W3Techs](https://w3techs.com/technologies/overview/content_management/all/), enero 2018)
 
