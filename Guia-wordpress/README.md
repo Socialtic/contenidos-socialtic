@@ -6,8 +6,8 @@
 - [Antes de instalar WordPress](#antes-de-instalar-wordpress)
   - [Dominio](#dominio)
   - [Servidor](#servidor)
-    - [Como elegir un servidor](#cómo-elegir-un-servidor)
-    - [Activar HTTPS para tu sitio Wordpress (certificado SSL)](#id-section7)
+    - [Cómo elegir un servidor](#cómo-elegir-un-servidor)
+    - [Activar HTTPS para tu sitio Wordpress](#activar-https-para-tu-sitio-wordpress)
   - Protege tu sitio contra ataques DDoS
     - Introducción a DDoS y CDN
     - Cómo activar Deflect para tu sitio WordPress
@@ -124,7 +124,7 @@ Para encontrar el servidor que mejor te conviene puedes considerar los siguiente
   - Correo electrónico: Con el servidor se puede tener adicionalmente un servicio de correo electrónico. Esto permite darle a la organización un canal de comunicación específica con la ventaja que el email contenga el nombre del dominio de la organización. Por ejemplo : contacto@socialtic.org .
   - CDN and SSL: Estos dos componente son de seguridad y los explicaremos en detalles más adelante. Si están incluidos mejor, y también se pueden configurar manualmente como lo mostraremos más adelante.
 
-## Activar HTTPS para tu sitio Wordpress (certificado SSL) {#id-section7}
+## Activar HTTPS para tu sitio Wordpress
 
 Un certificado de SSL (Secure Sockets Layer) es una herramienta que permite que la información viaje de manera segura (cifrada) hacia nuestro sitio. Por ejemplo, cuando alguien se registra en algún sitio suele llenar un formulario con datos con su nombre, email y contraseña. Estos datos viajan de la computadora de la persona al servidor donde se encuentra el sitio para ser almacenados en alguna base datos.
 
