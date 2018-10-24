@@ -2,10 +2,10 @@
 
 ## Tabla de contenidos
 - [Introducción](#introducción)
-- [Descripción](#id-section2)
-- [Antes de instalar WordPress](#id-section3)
-  - [Dominio](#id-section4)
-  - [Servidor](#id-section5)
+- [Descripción](#descripción)
+- [Antes de instalar WordPress](#1.-antes-de-instalar-wordpress)
+  - [Dominio](#dominio)
+  - [Servidor](#servidor)
     - [¿Como elegir un servidor?](#id-section6)
     - [Activar HTTPS para tu sitio Wordpress (certificado SSL)](#id-section7)
   - Protege tu sitio contra ataques DDoS
@@ -37,7 +37,7 @@ Actualmente WordPress es el CMS (sistema de gestión de contenidos, por sus sigl
 
 Al ser tan popular es también la plataforma más atacada. Con esta Guía de seguridad para WordPress podrás incrementar los niveles de seguridad de tu sitio web y blog.
 
-## Descripción {#id-section2}
+## Descripción
 
 Esta guía contiene recomendaciones para reforzar la seguridad de tu página WordPress bajo tres principios de seguridad informática:
 
@@ -51,7 +51,7 @@ Esta guía toma en cuenta las versiones de WordPress de WordPress.org , y no las
 
 La diferencia entre WordPress.com y WordPress.org es que WordPress.com es un servicio comercial de blogs que usa la versión de código abierto y gratuito distribuida por WordPress.org
 
-## 1. Antes de instalar WordPress {#id-section3}
+## 1. Antes de instalar WordPress
 
 Esta primera parte de la guía tiene como objetivo darte una perspectiva de los elementos y configuraciones a tomar en cuenta antes de instalar el CMS.
 
@@ -65,7 +65,7 @@ Es una realidad que las contraseñas son el corazón de tu vida digital, por lo 
 **Consejo:** Te recomendamos utilizar un [gestor de contraseñas](https://infoactivismo.org/que-es-un-gestor-de-contrasenas-y-para-que-sirve/) como keepassXC o Last Password para gestionarlas y no exista un riesgo de perderlas o de olvidarlas.
 
 ---
-## Dominio {#id-section4}
+## Dominio
 
 El nombre de un sitio como socialtic.org se le conoce como Nombre de Dominio.
 
@@ -95,7 +95,7 @@ Aquí, algunas recomendaciones confiables para comprar tu dominio.
 | [BlueHost](https://www.bluehost.com)  | .com: $11.99                         |
 | [eHost](https://www.ehost.com/)     | .com: $19.95                         |                |
 
-## Servidor {#id-section5}
+## Servidor
 
 El servidor es el espacio en el que se guarda los datos de tu página y se accede a través del navegador web  utilizando el nombre del dominio.
 
